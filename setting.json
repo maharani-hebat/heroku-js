@@ -5,7 +5,7 @@
   "target":"https://theculturetrip.com/",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
-    // "script",
+    "script",
     "noscript",
     "meta",
     "iframe",
